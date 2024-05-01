@@ -1,4 +1,4 @@
-# activator_deviaweb
+# Deviaweb activator
 
 1. télécharger `deviaweb_microsoft_activation.cmd`
 2. l'exécuter en double cliquant dessus
