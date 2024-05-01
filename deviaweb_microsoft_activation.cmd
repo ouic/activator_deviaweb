@@ -4,16 +4,15 @@
 
 
 ::
-::  For command line switches, check mass grave[.]dev/command_line_switches.html
-::  If you want to better understand script, read from MAS separate files version.
+::  If you want to better understand script, read from separate files version.
 
 
 ::============================================================================
 ::
-::   This script is a part of 'Microsoft-Activation-Scripts' (MAS) project.
+::   This script is a part of 'Microsoft-Activation-Scripts' project.
 ::
-::   Homepage: mass grave[.]dev
-::      Email: windowsaddict@protonmail.com
+::   Homepage: deviaweb.fr
+::   Email: contact@deviaweb.fr
 ::
 ::============================================================================
 
