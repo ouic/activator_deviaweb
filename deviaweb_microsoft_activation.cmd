@@ -11,7 +11,7 @@
 ::
 ::   This script is a part of 'Microsoft-Activation-Scripts' project.
 ::
-::   Homepage: deviaweb.fr
+::   Homepage: www.deviaweb.fr
 ::   Email: contact@deviaweb.fr
 ::
 ::============================================================================
